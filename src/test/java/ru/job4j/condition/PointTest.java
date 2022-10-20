@@ -38,7 +38,7 @@ public class PointTest {
     }
 
     @Test
-    public void when00to31then3_16() {
+    public void when00to31then316() {
         double expected = 3.16;
         int x1 = 0;
         int y1 = 0;
